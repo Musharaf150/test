@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    .progress-bar {
+       
+        top: 25%;
+        width: 100%;
+        left: 0;
+        height: 4px;
+        background-color: #c9b8b8;
+
+    }
+    .progress {
+        height: 100%;
+        background-color: #28a745;
+        transition: 0.2s ease;
+    }
+}
