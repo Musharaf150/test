@@ -228,7 +228,7 @@ export default function Form() {
               Details
             </h2>
             <p className=' text-center mt-1 text-sm leading-6 text-gray-600'>
-             We're thrilled at the opportunity to help you grow your business online. <br/>
+             We&apos;re thrilled at the opportunity to help you grow your business online. <br/>
              Please let us know the best way to reach you.
             </p>
             <div className='mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6'>
@@ -306,7 +306,7 @@ export default function Form() {
                   htmlFor='lastName'
                   className='block text-sm font-medium leading-6 text-gray-900'
                 >
-                  Anything else you'd like to share?
+                  Anything else you&apos;d like to share?
                 </label>
                 <div className='mt-2'>
                   <input
